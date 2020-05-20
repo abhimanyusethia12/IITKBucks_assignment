@@ -1,6 +1,6 @@
 # A Cryptocurrency Transaction Model
 
-The program assignment3.py asks for transaction data and creates a binary file for that transaction. 
+The program assignment3_updated.py asks for transaction data and creates a binary file for that transaction. 
 
 The program first asks for the number of inputs (to be entered as an integer), and for each input, it asks for- 
 
@@ -21,7 +21,7 @@ NOTE: An example .pem file is also provided in this folder (public_key.pem)
 Then it creates the transaction data in binary format, calculates its hash (the transaction ID) and then saves this binary data into a file named <the calculated transaction ID in hex format>.dat.
 
 P.S. Currently the program doesn't verify the transaction data. Just accepts whatever the user gives.
-P.S.S. the program was run with some random data and using public_key.pem file for the public key. The .dat file created has also been pushed in this folder
+P.S.S. the program was run with some random data and using public_key1.pem file for the public key. The .dat file created has also been pushed in this folder
 
 ## Output printed
 
