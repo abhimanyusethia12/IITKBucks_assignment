@@ -1,11 +1,11 @@
 # Rendering Transaction Details from its Binary file
 
 ## Input
-The program assognment4.py asks for the path to a .dat file consisting of a transaction's details in binary format (with its name as <transaction ID in hex format>.dat)
+The program assignment4-updated.py asks for the path to a .dat file consisting of a transaction's details in binary format (with its name as <transaction ID in hex format>.dat)
 
 The file must have binary data as mentioned in assignment 3 
 
-> For testing, I created d9d8175a025141b70fba951ac7dae0f88a2149d7b9b907936e7835ab2a3422d2.dat file (by running ../assignment3/assignment3.py program) and pushed it to this folder
+> For testing, I created 0ab9c878d6661f9fc7f4f70035bf96054ecd7fed01e9850c6493edd4bf19c518.dat file (by running ../assignment3/assignment3.py program) and pushed it to this folder
 
 ## Output
 
