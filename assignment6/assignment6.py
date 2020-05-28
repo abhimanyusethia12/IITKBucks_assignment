@@ -24,7 +24,7 @@ def add_and_broadcast():
     
     #sending POST requests to all peers
     for url in peers:
-        requests.post(url, json={key: value})
+        requests.post(url, json={'key': key, 'value': value})
         print("sent POST request to URL- %s"%url)
     
     return jsonify(req_dict)
